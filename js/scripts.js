@@ -65,6 +65,6 @@ toggleButton.addEventListener('click', () => {
  
   navbarLinks.classList.toggle('active')
   var x = document.getElementById('logo');
-  x.classList.add('w-100');
-  x.classList.add('text-center');
+//   x.classList.add('w-100');
+//   x.classList.add('text-center');
 })
