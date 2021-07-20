@@ -11039,7 +11039,6 @@ direction: rtl;
  
 }
 
-
 .navbar {
   display: flex;
   position: relative;
@@ -11129,3 +11128,27 @@ direction: rtl;
       display: flex;
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Background Styles Only */
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+* {
+  font-family: Raleway;
+}
+
+html {
+  backgro
