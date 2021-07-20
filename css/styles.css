@@ -11128,14 +11128,4 @@ direction: rtl;
   .navbar-links.active {
       display: flex;
   }
- .brand-title{
-   text-align: center;
-  
- }
- .logo{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-
- }
 }
