@@ -11063,6 +11063,10 @@ direction: rtl;
   padding: 0;
 
  }
+ body{
+   width: 100%;
+   overflow-x: hidden;
+ }
 .topnav a:hover {
   background-color: #ff5959;
   color: black;
