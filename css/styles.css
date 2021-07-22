@@ -11022,9 +11022,11 @@ header.masthead h1, header.masthead .h1 {
 }
 *{
 direction: rtl;  
-overflow-x: hidden;
 }
+body{
+  overflow-x: hidden;
 
+}
 
 #linkus{
  position: fixed;
