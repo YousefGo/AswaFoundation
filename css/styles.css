@@ -11057,7 +11057,12 @@ direction: rtl;
   font-family: courier new;
   font-weight: bold;
 }
+ *{
+  font-family: 'Amiri', serif !important;
+  margin: 0;
+  padding: 0;
 
+ }
 .topnav a:hover {
   background-color: #ff5959;
   color: black;
